@@ -12,5 +12,6 @@ public class Test01 {
     public static void main(String[] args) {
         System.out.println("添加第一句话");
         System.out.println("添加第二句话");
+        System.out.println("添加第三句话");
     }
 }
